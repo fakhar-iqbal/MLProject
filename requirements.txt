@@ -2,5 +2,9 @@ pandas
 numpy
 seaborn
 matplotlib
-fastai
--e .
+scikit-learn
+catboost
+xgboost
+
+
+#-e .
